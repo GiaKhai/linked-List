@@ -110,7 +110,7 @@ div#settings button {
   margin-top: 34px;
   border: none;
   border-radius: 5px;
-  background: linear-gradient(-125deg, #0067ff, #8900e8);
+  background: linear-gradient(-125deg, #0067ff, #0106ff);
   font-weight: bold;
   color: #fff;
 }
@@ -133,7 +133,7 @@ header h1 {
 
 header h1 span {
   font-style: italic;
-  color: #8900e8;
+  color: #0106ff;
 }
 
 div#settings-menu,
@@ -147,7 +147,7 @@ div.gradient-border {
   width: 95%;
   height: 1px;
   margin: 0 auto;
-  background: linear-gradient(to right, #0067ff, #8900e8);
+  background: linear-gradient(to right, #0067ff, #0106ff);
 }
 
 /* ----------------------------------------------------------------- */
@@ -200,7 +200,7 @@ section.list {
 /* ----------------------------------------------------------------- */
 
 div.node {
-  background: #8900e8;
+  background: #0106ff;
   width: var(--nodes-size);
   height: var(--nodes-size);
   text-align: center;
@@ -394,7 +394,7 @@ div.wrapper input::placeholder {
 
 button.button {
   border: none;
-  background: linear-gradient(-125deg, #0067ff, #8900e8);
+  background: linear-gradient(-125deg, #0067ff, #0106ff);
   padding: 10px;
   font-size: 1.5rem;
   font-weight: bold;
